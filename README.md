@@ -12,4 +12,4 @@ Our reference implementation is a java based implementation available [here](htt
 We know that this software requires a lot of improvement and we will try to keep it up to date. If you want any changes to be done and cannot do it yourself or want any custom development, feel free to [contact-us](mailto:contact@vectionvr.com).
 
 ##Disclaimer
-######*VectionVR is in no way affiliated with YEI or Oculus. All source code or binary library is provided as is. VectionVR, Bnome or any of their representatives can in no way be held liable for any damages caused by using this software.*
+######*VectionVR is in no way affiliated with OSVR. All source code or binary library is provided as is. VectionVR, Bnome or any of their representatives can in no way be held liable for any damages caused by using this software.*
